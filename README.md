@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Alif+Abrar;DevOps+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+I'm+Muhammad+Alif+Abrar;DevOps+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%92%A1" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -57,18 +57,26 @@ fun_fact: "Jago 🔥"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tesyaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tesyaf&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github.com/Tesyaf">
+    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tesyaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Tesyaf">
+    <img width="48%" src="https://streak-stats.demolab.com/?user=Tesyaf&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tesyaf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <a href="https://github.com/Tesyaf">
+    <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tesyaf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  </a>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tesyaf&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/Tesyaf">
+    <img src="https://github-trophies.vercel.app/?username=Tesyaf&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ## 📈 Contribution Graph
