@@ -102,7 +102,7 @@
     <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tesyaf&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Tesyaf">
-    <img width="48%" src="https://streak-stats.demolab.com?user=Tesyaf&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=00FF00&dates=C9D1D9" alt="GitHub Streak" />
+    <img width="48%" src="https://github-readme-streak-stats-nine-chi.vercel.app?user=Tesyaf&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=00FF00&dates=C9D1D9" alt="GitHub Streak" />
   </a>
 </p>
 
